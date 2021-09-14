@@ -4,7 +4,7 @@
 
 **Description**: This is a simple animation of a bar hop through breweries in the South Slope Brewing District of Asheville, NC.
 
-**How to run**: Copy all files into a folder and load index.html in a browser.
+**How to run**: Copy all files into a folder, add your own mapbox token to line 33 in brewerytour.js, and load index.html in a browser.
 
 **Roadmap of future improvements**: 
   1. Change breweryLocations and breweryNames to one multi-dimensional array
