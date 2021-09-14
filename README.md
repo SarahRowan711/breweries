@@ -8,10 +8,11 @@
 
 **Roadmap of future improvements**: 
   1. Change breweryLocations and breweryNames to one multi-dimensional array
-  2. Initial marker in center of district will auto-click to show the popup text, which doesn't show currently.
-  3. Entire district will be highlighted to show the boundaries.
-  4. Allow an option to display all brewery markers at once. 
-  5. Allow for a user to click on each brewery marker and see the address.
-  6. Show an image when a user clicks on a brewery marker.
+  2. Reset and restart the animation when the button is clicked after the animation has already completed
+  3. Initial marker in center of district will auto-click to show the popup text, which doesn't show currently
+  4. Entire district will be highlighted to show the boundaries
+  5. Allow an option to display all brewery markers at once
+  6. Allow for a user to click on each brewery marker and see the address
+  7. Show an image when a user clicks on a brewery marker
 
 **TODO: Add MIT License information when I figure out what that is...**
