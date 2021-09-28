@@ -1,4 +1,4 @@
-## South Slope Brewing District Tour (Modified version of Real Time Bus Tracker assignment)
+# South Slope Brewing District Tour (Modified version of Real Time Bus Tracker assignment)
 
 ## Description 
 This is a simple animation of a bar hop through breweries in the South Slope Brewing District of Asheville, NC.
