@@ -30,7 +30,7 @@ const breweryNames = [
 ]
 
 mapboxgl.accessToken =
-  'pk.eyJ1Ijoic2FyYWhyb3dhbjcxMSIsImEiOiJja3RpcmFzcWowYmJnMm9vMGoyc3pneHdhIn0.fehim6-_QABovZQJFdQXsw';
+  'INSERT YOUR TOKEN HERE';
 
 //creates the Mapbox map object 
 let map = new mapboxgl.Map({
