@@ -1,5 +1,3 @@
-# breweries
-
 ## South Slope Brewing District Tour (Modified version of Real Time Bus Tracker assignment)
 
 ## Description 
